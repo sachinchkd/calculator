@@ -1,0 +1,66 @@
+.container{
+	margin: auto;
+	text-align: center;
+}
+.ptr{
+
+}
+h1{
+	margin: auto;
+	width: 70%;
+	background: blue;
+	opacity: 65%;
+	color: white;
+	text-align: center;
+}
+
+.a{
+	width: 70%;
+	margin: auto;
+	color: black;
+	
+	background:lightgoldenrodyellow;
+	
+	
+}
+button{
+	margin-top: 20px;
+	margin-left: 20px;
+	border-radius: 10px;
+	width: 120px;
+	color: white;
+	font-size: 17px;
+	padding: 5px;
+	background-color: black;
+}
+input{
+	padding: 5px;
+	margin-left: 20px;
+	border-radius: 20px;
+	width: 80px;
+}
+.result{
+	padding: 20 px;
+	margin: auto;
+	font-style: impact;
+	width: 25%;
+	font-style: arial;
+	background-color: lightgreen;
+	margin-top: 20px;
+}
+h2{
+	margin: auto;
+	width:  25%;
+	margin-top: -15 px;
+	font-style: impact;
+	background-color: green ;
+	color: white;
+}
+.ptr{
+	background-color: lightgrey;
+	margin: auto;
+	width: 70%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
